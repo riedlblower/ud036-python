@@ -1,0 +1,9 @@
+In passing, albeit a little late in the day, if you add following two lines to your code in the relevant places:
+
+import os
+    os.system("start D:\udacity\ud036-python\circus2.wav")
+then the windows media player will open and start playing the music.
+
+I downloaded the music from https://en.wikipedia.org/wiki/Entrance_of_the_Gladiators in ogg format and then downloaded VLC media player to convert it to .wav format.
+
+https://discussions.udacity.com/t/nice-background-music-what-is-its-title/123824/3
